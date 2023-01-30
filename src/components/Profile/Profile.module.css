@@ -1,6 +1,6 @@
 .profile {
   width: 1000px;
-  background-color: #843232;
+  background-color: rgb(50 132 126);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -31,20 +31,20 @@
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 15px;
-  color: #524a4d;
+  color: rgb(172 39 12 / 69%);
 }
 
 .tag {
   font-weight: 500;
   font-size: 20px;
-  color: #524a4d;
+  color: rgb(172 39 12 / 69%);
   margin-bottom: 15px;
 }
 
 .location {
   font-weight: 700;
   font-size: 20px;
-  color: #524a4d;
+  color: rgb(172 39 12 / 69%);
   margin-bottom: 15px;
 }
 .stats {
