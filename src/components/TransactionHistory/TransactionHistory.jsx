@@ -1,4 +1,4 @@
-import css from './TransactionHistory.module.css';
+import './TransactionHistory.module.css';
 import PropTypes from 'prop-types';
 
 const createColor = () => {
